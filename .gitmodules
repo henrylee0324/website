@@ -1,0 +1,3 @@
+[submodule "themes/split-theme"]
+	path = themes/split-theme
+	url = https://github.com/escalate/hugo-split-theme
